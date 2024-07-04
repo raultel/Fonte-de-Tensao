@@ -40,15 +40,15 @@ Valor Total: R$ 23,36
 ## Cálculo dos componentes
 
 ### Razão do Transformador
-Saída de tensão para o capacitor: $24,2$ V
+Saída de tensão para o capacitor: $24,2 \space V$
 
 Razão: $7,02$
 
 ### Teste de piso
-$127\cdot\sqrt2=179,6$ V
+$127\cdot\sqrt2=179,6 \space V$
 
 ### Saída do transformador
-$\frac{1}{7,02} = \frac{V_{s}}{V_{piso}} \Rightarrow V_{s} = \frac{179,6}{7,02} = 25,6$ V
+$\frac{1}{7,02} = \frac{V_{s}}{V_{piso}} \Rightarrow V_{s} = \frac{179,6}{7,02} = 25,6 \space V$
 
 Como cada diodo gasta $0.7$ V, devemos tirar $1.4$ V:
 
@@ -57,15 +57,15 @@ $25,6-1,4=24,2$ V
 ### Cálculo do Ripple
 Considerando o Ripple como 10% da tensão de saída, temos:
 
-$V_{ripple} = 0,1\cdot24,2=2,42$ V
+$V_{ripple} = 0,1\cdot24,2=2,42 \space V$
 
 ### Correntes
-- $i_{carga} = \frac{13}{120\cdot0,714} = 102,3$ mA
-- $i_{LED} = \frac{24,05-1,7}{5600} = 3,9$ mA
-- $i_{zener} = \frac{24,05-13}{470} = 24$ mA
-- $i_{potenciômetro} = \frac{24,05}{13670} = 1,8$ mA
+- $i_{carga} = \frac{13}{120\cdot0,714} = 102,3 \space mA$
+- $i_{LED} = \frac{24,05-1,7}{5600} = 3,9 \space mA$
+- $i_{zener} = \frac{24,05-13}{470} = 24 \space mA$
+- $i_{potenciômetro} = \frac{24,05}{13670} = 1,8 \space mA$
 
-$i_{total} = \sum i = 132$ mA
+$i_{total} = \sum i = 132 \space mA$
 
 ### Capacitor
 $\frac{i}{f \cdot V_{ripple}}$

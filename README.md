@@ -68,8 +68,7 @@ $V_{ripple} = 0,1\cdot24,2=2,42 \space V$
 $i_{total} = \sum i = 132 \space mA$
 
 ### Capacitor
-$\frac{i}{f \cdot V_{ripple}}$
 
 $f = 120$ Hz
 
-$\frac{0,132}{120\cdot2,42} = 454,55 \space\mu F$
+$\frac{i}{f \cdot V_{ripple}} = \frac{0,132}{120\cdot2,42} = 454,55 \space\mu F$

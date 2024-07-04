@@ -33,4 +33,17 @@ TO-DO:
 Valor Total: R$ 23,36
 
 ## Projeto no Falstad
-[Link para o projeto](https://tinyurl.com/269kquys)
+![Imagem do projeto](img/falstad.jpg)
+
+[Link para o projeto](https://tinyurl.com/2nkhrl93)
+
+## Cálculo dos componentes
+
+### Razão do Transformador
+Saída de tensão para o capacitor: $24,2 V$
+Razão: $7,02$
+
+### Teste de piso
+$127\cdot\sqrt(2)=179,6 V$
+
+### Saída do transformador

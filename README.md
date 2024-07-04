@@ -40,10 +40,11 @@ Valor Total: R$ 23,36
 ## Cálculo dos componentes
 
 ### Razão do Transformador
-Saída de tensão para o capacitor: $24,2 V$
+Saída de tensão para o capacitor: $24,2$ V
+
 Razão: $7,02$
 
 ### Teste de piso
-$127\cdot\sqrt(2)=179,6 V$
+$127\cdot\sqrt2=179,6$ V
 
 ### Saída do transformador

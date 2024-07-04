@@ -72,4 +72,4 @@ $\frac{i}{f \cdot V_{ripple}}$
 
 $f = 120$ Hz
 
-$\frac{0,132}{120\cdot2,42} = 454,55 \mu F$
+$\frac{0,132}{120\cdot2,42} = 454,55 \space\mu F$

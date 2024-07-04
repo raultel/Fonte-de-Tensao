@@ -32,8 +32,11 @@ TO-DO:
 
 Valor Total: R$ 23,36
 
+## Imagem do Circuito
+![Imagem do projeto no Falstad](img/falstad.jpg)
+![Imagem do projeto na protoboard](img/proto.jpg)
+
 ## Projeto no Falstad
-![Imagem do projeto](img/falstad.jpg)
 
 [Link para o projeto](https://tinyurl.com/2nkhrl93)
 

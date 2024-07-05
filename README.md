@@ -1,13 +1,6 @@
 # Fonte de Tensão
 Projeto realizado na disciplina Eletrônica para Computação no ICMC/USP. Esse projeto faz parte dos trabalhos que compõem a nota da disciplina.
 
-TO-DO:
-~~1) Diagrama da Fonte com os valores dos componentes escolhidos e uma lista de componentes, contendo valores e preços~~
-~~2) Link para o circuito no Falstad~~
-3) Esquemático do PCD no EAGLE
-4) Incluir fotos da placa/protoboard com o circuito montado Incluir um VIDEO mostrando o Projeto funcionando e simulando, e explicando porque escolheu os valores dos componentes (Upa o vídeo no Youtube ou google drive e poe um link no Readme do teu Github/gitlab).
-5) Colocar o link da apresentação do trabalho
-
 ## Grupo:
 - Heitor Gomes de Oliveira - 15458350
 - Matheus Guilerme Ferreira Mendonça Learte - 15522362
@@ -42,6 +35,9 @@ Valor Total: R$ 23,36
 ## Projeto no Eagle
 ![Imagem do Esquemático](img/schema-eagle.png)
 ![Imagem do PCB](img/pcb-eagle.png)
+
+## Vídeo Explicando
+[Link para o vídeo explicando o projeto](https://www.youtube.com/watch?v=FdLJs6woBBQ)
 
 ## Cálculo dos componentes
 

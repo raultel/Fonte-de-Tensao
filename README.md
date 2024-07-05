@@ -37,8 +37,11 @@ Valor Total: R$ 23,36
 ![Imagem do projeto na protoboard](img/proto.jpg)
 
 ## Projeto no Falstad
-
 [Link para o projeto](https://tinyurl.com/2nkhrl93)
+
+## Projeto no Eagle
+![Imagem do Esquemático](img/schema-eagle.png)
+![Imagem do PCB](img/pcb-eagle.png)
 
 ## Cálculo dos componentes
 
